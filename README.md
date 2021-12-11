@@ -9,7 +9,7 @@ AdventOfCode_2021
 
 *Day 2 :*
 - [x] Part One
-- [ ] Part Two
+- [x] Part Two
 
 *Day 3 :*
 - [ ] Part One
