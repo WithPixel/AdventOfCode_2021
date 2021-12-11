@@ -1,7 +1,7 @@
 AdventOfCode_2021
 =================
 
-## My solutions for the AdventOfCode 2021 for :
+## My solutions for the AdventOfCode 2021 :
 
 *Day 1 :*
 - [x] Part One
