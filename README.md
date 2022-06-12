@@ -13,7 +13,7 @@ AdventOfCode_2021
 
 *Day 3 :*
 - [x] Part One
-- [x] Part Two   *using break ¯\_(ツ)_/¯*
+- [x] Part Two (using break for this one ¯\_(ツ)_/¯)
 
 *Day 4 :*
 - [ ] Part One
